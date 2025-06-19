@@ -6,7 +6,7 @@ have a game that we should support? Contact us on our discord!
 
 Official loadstring:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NuIlFire/NullFire/main/loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamNullFire/NullFire/main/loader.lua"))()
 ```
 
 ⚠️ Disclaimer
