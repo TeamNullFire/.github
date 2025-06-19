@@ -12,9 +12,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NuIlFire/NullFire/mai
 ⚠️ Disclaimer
 This project is for educational purposes only (dont terminate us pls). We do not promote cheating or unfair gameplay. Use responsibly and respect the terms of service of the platforms you interact with.
 
-Owner: seikoso
-CoOwner: Cherry
-Devs: Shrimper
-Contributers: Cat_personohio idfk his name anymore
+Credit's
+- Owner: seikoso
+- CoOwner: Cherry
+- Devs: Shrimper
+- Contributers: Cat_personohio idfk his name anymore
+- Website Design: Maxxus
 
 Discord: https://discord.gg/bNuJfzANUV
