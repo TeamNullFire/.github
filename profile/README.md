@@ -1,22 +1,11 @@
 # NullFire
 
-NullFire is a scripthub with a lot of powerful and useful features with an easy to use UI.
+NullFire is an organization that makes software to improve user experience.
+As such we have child Projects.
 
-have a game that we should support? Contact us on our discord!
-
-Official loadstring:
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TeamNullFire/NullFire/main/loader.lua"))()
-```
-
-⚠️ Disclaimer
-This project is for educational purposes only (dont terminate us pls). We do not promote cheating or unfair gameplay. Use responsibly and respect the terms of service of the platforms you interact with.
-
-Credit's
-- Owner: seikoso
-- CoOwner: Cherry
-- Devs: Shrimper
-- Contributers: Cat_personohio idfk his name anymore
-- Website Design: Maxxus
+To view all our Projects visit https://nullfire.dev
 
 Discord: https://discord.gg/bNuJfzANUV
+
+⚠️ Disclaimer
+We do not promote cheating or unfair gameplay. All our Projects that include modifying Games are purely educational. Use responsibly and respect the terms of service of the platforms you interact with. 
